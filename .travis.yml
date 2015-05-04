@@ -1,4 +1,4 @@
-language: pythontest
+language: python
 python: 
   - 3.2
   
